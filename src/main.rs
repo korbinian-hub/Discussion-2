@@ -13,6 +13,6 @@ fn main() {
     println!("  (nobody has signed on yet)");
 
     println!();
-    println!("Motto: {}", MOTTO);
+    println!("Motto: {}", An apple a day keeps the doctor away);
     println!("Report any problems to whoever merged last.");
 }
