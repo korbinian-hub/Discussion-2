@@ -8,9 +8,10 @@ cargo run
 
 ## Crew name
 
-Discussion 2
+BU Tigers
 
 ## Members
 
-- Korbinian
+Timur
+Korbinian
 
