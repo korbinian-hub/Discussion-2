@@ -5,12 +5,12 @@ const CREW_NAME: &str = "the unnamed crew";
 const MOTTO: &str = "Add our moto";
 
 fn main() {
-    println!("=== {} ===", CREW_NAME);
+    println!("=== {} ===", Korbinian);
     println!();
     println!("Crew roster:");
 
     // ROSTER: replace the line below with one for yourself.
-    println!("  (nobody has signed on yet)");
+    println!("This was now assigned!");
 
     println!();
     println!("Motto: {}", YOLO);
