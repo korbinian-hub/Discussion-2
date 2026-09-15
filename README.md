@@ -8,8 +8,9 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+BU Tigers
 
 ## Members
 
-- _nobody has signed on yet_
+Timur
+
